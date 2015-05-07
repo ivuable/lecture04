@@ -1,4 +1,4 @@
-function succ(){
+function succ(a){
   a.push(true);
   return a;
 }

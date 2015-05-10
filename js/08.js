@@ -17,6 +17,5 @@ function n(length){
 　if(length<0){
   return null;
 }
-　
   return a;
 }
